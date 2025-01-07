@@ -1,0 +1,14 @@
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\dtos\TransactionDTO.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\entities\Operator.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\enums\ServiceType.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\enums\TransactionType.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\FactureServiceApplication.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\repositories\OperatorRepository.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\services\OperatorService.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\facture_service\web\OperatorController.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\MarocTelecomSoapService.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\MarocTelecomWS.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\ObjectFactory.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\package-info.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\Recharge.java
+C:\Users\Samira\Desktop\facture-service\src\main\java\com\example\operators_api\web\RechargeResponse.java

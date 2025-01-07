@@ -1,0 +1,14 @@
+com\example\facture_service\web\OperatorController.class
+com\example\operators_api\web\MarocTelecomSoapService.class
+com\example\facture_service\entities\Operator.class
+com\example\operators_api\web\MarocTelecomWS.class
+com\example\operators_api\web\ObjectFactory.class
+com\example\facture_service\repositories\OperatorRepository.class
+com\example\operators_api\web\package-info.class
+com\example\facture_service\services\OperatorService.class
+com\example\operators_api\web\Recharge.class
+com\example\facture_service\dtos\TransactionDTO.class
+com\example\operators_api\web\RechargeResponse.class
+com\example\facture_service\enums\ServiceType.class
+com\example\facture_service\enums\TransactionType.class
+com\example\facture_service\FactureServiceApplication.class
